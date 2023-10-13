@@ -217,11 +217,11 @@
   ],
   "players": [
     {
-      "name": "Legendary",
+      "name": "Newtest",
       "character": 1,
       "coin": 99999999,
       "level": 1,
-      "password": "soyjuthelegend",
+      "password": "123",
       "health": 9999,
       "maxHealth": 9999,
       "damage": 999,
